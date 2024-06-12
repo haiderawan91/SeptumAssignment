@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital city of France?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Berlin",
+        "d": "Madrid"
+      },
+      "correct_answer": "a",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which city is the capital of Japan?",
+      "options": {
+        "a": "Seoul",
+        "b": "Beijing",
+        "c": "Tokyo",
+        "d": "Bangkok"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What is the capital city of Canada?",
+      "options": {
+        "a": "Toronto",
+        "b": "Vancouver",
+        "c": "Ottawa",
+        "d": "Montreal"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "What is the capital of Australia?",
+      "options": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Canberra",
+        "d": "Brisbane"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": {
+        "a": "China",
+        "b": "South Korea",
+        "c": "Japan",
+        "d": "Thailand"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "What is the capital city of Italy?",
+      "options": {
+        "a": "Venice",
+        "b": "Rome",
+        "c": "Florence",
+        "d": "Milan"
+      },
+      "correct_answer": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Which city is the capital of Russia?",
+      "options": {
+        "a": "Saint Petersburg",
+        "b": "Moscow",
+        "c": "Novosibirsk",
+        "d": "Yekaterinburg"
+      },
+      "correct_answer": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "What is the capital of South Africa?",
+      "options": {
+        "a": "Pretoria",
+        "b": "Cape Town",
+        "c": "Johannesburg",
+        "d": "Durban"
+      },
+      "correct_answer": "a",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Which programming language is known as the backbone of web development?",
+      "options": {
+        "a": "Python",
+        "b": "JavaScript",
+        "c": "C++",
+        "d": "Java"
+      },
+      "correct_answer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Who is the founder of Microsoft?",
+      "options": {
+        "a": "Steve Jobs",
+        "b": "Elon Musk",
+        "c": "Bill Gates",
+        "d": "Mark Zuckerberg"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "What does HTML stand for?",
+      "options": {
+        "a": "HyperText Markdown Language",
+        "b": "HyperText Markup Language",
+        "c": "HyperLoop Markup Language",
+        "d": "Hyperlink Text Markup Language"
+      },
+      "correct_answer": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "Which country is known for the Eiffel Tower?",
+      "options": {
+        "a": "Germany",
+        "b": "Italy",
+        "c": "France",
+        "d": "Spain"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "What is the capital city of India?",
+      "options": {
+        "a": "Mumbai",
+        "b": "New Delhi",
+        "c": "Bangalore",
+        "d": "Chennai"
+      },
+      "correct_answer": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "Who is the CEO of Tesla, Inc. as of 2024?",
+      "options": {
+        "a": "Jeff Bezos",
+        "b": "Sundar Pichai",
+        "c": "Tim Cook",
+        "d": "Elon Musk"
+      },
+      "correct_answer": "d",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "Which programming language is primarily used for iOS app development?",
+      "options": {
+        "a": "Java",
+        "b": "Swift",
+        "c": "Kotlin",
+        "d": "Ruby"
+      },
+      "correct_answer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "What is the capital of Brazil?",
+      "options": {
+        "a": "Rio de Janeiro",
+        "b": "São Paulo",
+        "c": "Brasília",
+        "d": "Salvador"
+      },
+      "correct_answer": "c",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "Which city is the capital of Egypt?",
+      "options": {
+        "a": "Cairo",
+        "b": "Alexandria",
+        "c": "Giza",
+        "d": "Luxor"
+      },
+      "correct_answer": "a",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "What is the name of the first electronic general-purpose computer?",
+      "options": {
+        "a": "ENIAC",
+        "b": "UNIVAC",
+        "c": "IBM PC",
+        "d": "Apple I"
+      },
+      "correct_answer": "a",
+      "difficulty": "hard"
+    },
+    {
+      "id": 19,
+      "question": "What is the capital city of Germany?",
+      "options": {
+        "a": "Berlin",
+        "b": "Hamburg",
+        "c": "Munich",
+        "d": "Frankfurt"
+      },
+      "correct_answer": "a",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "Who is known as the Father of the Internet?",
+      "options": {
+        "a": "Tim Berners-Lee",
+        "b": "Vint Cerf",
+        "c": "Bill Gates",
+        "d": "Steve Jobs"
+      },
+      "correct_answer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "id": 1718228592027,
+      "question": "Who let the dogs out?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D"
+      },
+      "correct_answer": "a",
+      "difficulty": "easy"
+    }
+  ]
+}
